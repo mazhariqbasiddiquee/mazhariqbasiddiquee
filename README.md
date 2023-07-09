@@ -31,6 +31,12 @@
 
 
 
+![Top Languages](https://github.com/mazhariqbasiddiquee/your-repository/blob/master/languages.svg)
+
+
+
+
+
  |
 
 
