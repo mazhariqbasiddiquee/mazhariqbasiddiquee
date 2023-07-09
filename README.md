@@ -30,6 +30,10 @@
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbasiddiquee&layout=compact&langs_count=5)](https://github.com/mazhariqbasiddiquee)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mazhariqbasiddiquee)](https://github.com/mazhariqbasiddiquee)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazhariqbasiddiquee&show_icons=true&theme=radical)
+
+
 
 
 
