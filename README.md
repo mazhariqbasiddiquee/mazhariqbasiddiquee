@@ -1,11 +1,6 @@
 ### Hi 👋 From Mazhar iqbal siddiquee
 
 
-[![Issues](https://img.shields.io/github/issues-raw/your-username?style=flat-square)](https://github.com/mazhariqbasiddiquee/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr-raw/your-username?style=flat-square)](https://github.com/mazhariqbasiddiqueepulls)
-[![Stars](https://img.shields.io/github/stars/your-username?style=flat-square)](https://github.com/mazhariqbasiddiquee/stargazers)
-[![Forks](https://img.shields.io/github/forks/your-username?style=flat-square)](https://github.com/mazhariqbasiddiquee/network/members)
-[![Followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/mazhariqbasiddiquee?tab=followers)
 
 
 
