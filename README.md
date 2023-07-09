@@ -31,7 +31,8 @@
 
 
 
-![Top Languages](https://github.com/mazhariqbasiddiquee/your-repository/blob/master/languages.svg)
+![Top Languages](https://img.shields.io/github/languages/top/mazhariqbasiddiquee/your-repository)
+
 
 
 
