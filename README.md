@@ -29,8 +29,8 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="50" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="50" height="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50" height="50"> | |
 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbasiddiquee&layout=compact&langs_count=5)](https://github.com/mazhariqbasiddiquee)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbasiddiquee&layout=compact&langs_count=5
 
 
 
