@@ -5,7 +5,7 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/your-username/your-repository?style=flat-square)](https://github.com/your-username/your-repository/pulls)
 [![Stars](https://img.shields.io/github/stars/your-username/your-repository?style=flat-square)](https://github.com/your-username/your-repository/stargazers)
 [![Forks](https://img.shields.io/github/forks/your-username/your-repository?style=flat-square)](https://github.com/your-username/your-repository/network/members)
-[![Followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username?tab=followers)
+[![Followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/mazhariqbasiddiquee?tab=followers)
 
 
 
