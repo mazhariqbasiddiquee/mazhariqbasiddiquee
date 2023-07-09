@@ -30,8 +30,8 @@
 
 
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=mazhariqbasiddiquee&layout=compact&langs_count=5
 
-![Top Languages](https://img.shields.io/github/languages/top/mazhariqbasiddiquee/your-repository)
 
 
 
