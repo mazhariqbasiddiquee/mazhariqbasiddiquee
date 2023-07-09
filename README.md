@@ -37,9 +37,6 @@
 
 
 
-- [Repository 1](https://github.com/mazhariqbasiddiquee/-swell-animal-1277)
-- [Repository 2](https://github.com/mazhariqbasiddiquee/potent-voyage-8716)
-- [Repository 3](https://github.com/mazhariqbasiddiquee/repository3)
 
 
 
