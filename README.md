@@ -1,5 +1,5 @@
 ### Hi 👋 From Mazhar iqbal siddiquee
-(https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?mazhariqbasiddiquee=ryo-ma&column=3&margin-w=15&margin-h=15)
+
 
 
 
