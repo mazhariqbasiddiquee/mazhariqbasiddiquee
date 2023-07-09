@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning HTML,CSS,DSA  and Node.js..
+ 🌱 I’m currently learning HTML,CSS,DSA  and Node.js..
 - 💬 Ask me about MongoDb , Node.js , CSS< HTML
 - 📫 How to reach me: ...https://www.linkedin.com/in/mazhar-iqbal-siddiquee-58a48817a/
 - 😄 Pronouns: ...
